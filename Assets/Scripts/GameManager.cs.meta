@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3bf2d56e1d9f4a148aa8ce3ac57d716d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnSfx: {fileID: 8300000, guid: b3865eaee2894b243b602b5fa16345a0, type: 3}
+  - docPrefab: {fileID: 4240371998965300610, guid: 54726abd30d1f164ab6f1ce84a2ca660, type: 3}
+  - folderPrefab: {fileID: 5879970607666337008, guid: 77caede3ad4592a4db701b74adbcf7ff, type: 3}
+  - trashBinPrefab: {fileID: 3322681661535980621, guid: d6493792881f70046ae7f56d9b2f442c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
